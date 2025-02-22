@@ -1,0 +1,15 @@
+[project]
+name = "contrastingcolor"
+description = "This node calculates a contrasting complementary color based on an input RGB color. The goal is to ensure visibility and contrast when overlaying text, UI elements, or graphical components against a given background color."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/dasilva333/ComfyUI_ContrastingColor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ContrastingColor"
+Icon = ""
